@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  mem.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  internal_ac.vcxproj -> C:\Users\Max\source\repos\internal_ac\x64\Release\internal_trampolineHook.dll

@@ -1,0 +1,3 @@
+﻿  ESP.cpp
+C:\Users\Max\source\repos\internal_ac\internal_ac\ESP.cpp(49,61): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  internal_ac.vcxproj -> C:\Users\Max\source\repos\internal_ac\Debug\internal_trampolineHook.dll
